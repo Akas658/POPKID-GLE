@@ -17,7 +17,7 @@ u{
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {POPKID;;;Ym0yTLJA#xc_NIg0mWDJ7NxEiwOS3N55PVihechd_9SNNEAgL7Fk
-      "description": "Session ID (POPKID;;;fileId#fileKey format for MEGA based auth)",
+      "description": "POPKID;;;Ym0yTLJA#xc_NIg0mWDJ7NxEiwOS3N55PVihechd_9SNNEAgL7Fk (POPKID;;;fileId#fileKey format for MEGA based auth)",
       "required": true
     },
     "OWNER": {
